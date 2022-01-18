@@ -29,20 +29,8 @@ const CATEGORY_INFO = {
       {
         title: "ExxonMobil",
         titleUrl: "https://corporate.exxonmobil.com/",
-        description: "Project Engineer",
-        subDescription: "Jun 2020 - Sep 2020",
-      },
-      {
-        title: "ExxonMobil",
-        titleUrl: "https://corporate.exxonmobil.com/",
-        description: "Project Controls Engineer",
-        subDescription: "Nov 2018 - Aug 2020",
-      },
-      {
-        title: "ExxonMobil",
-        titleUrl: "https://corporate.exxonmobil.com/",
-        description: "Cost & Schedule Engineer",
-        subDescription: "Nov 2015 - Jan 2019",
+        description: "Project Management",
+        subDescription: "Nov 2015 - Sep 2020",
       },
     ],
   },

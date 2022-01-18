@@ -22,6 +22,8 @@ const Contact = () => (
       <a href="mailto:try.wijono@gmail.com">try.wijono@gmail.com</a>
       <br />
       <a
+        target="_blank"
+        rel="noopener noreferrer"
         href="https://www.linkedin.com/in/try-wijono"
         className={styles.resume}
       >

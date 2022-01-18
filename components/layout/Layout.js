@@ -9,9 +9,27 @@ const Layout = ({ children }) => (
     <footer className={styles.footer}>
       <h2 className={styles.textLogo}>tw. - {new Date().getFullYear()}</h2>
       <section className={styles.socialMedia}>
-        <a href="https://www.github.com/mrlepak">Github</a>
-        <a href="https://www.linkedin.com/in/try-wijono">Linkedin</a>
-        <a href="https://www.instagram.com/tuhrye">Instagram</a>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://www.github.com/mrlepak"
+        >
+          Github
+        </a>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://www.linkedin.com/in/try-wijono"
+        >
+          Linkedin
+        </a>
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://www.instagram.com/tuhrye"
+        >
+          Instagram
+        </a>
       </section>
     </footer>
   </div>

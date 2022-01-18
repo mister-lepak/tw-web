@@ -7,7 +7,13 @@ const Category = ({ info }) => (
       {info?.details?.map((detail, id) => (
         <div key={`${info?.header}Detail${id}`}>
           <h4 className={styles.title} key={`${info?.header}Title${id}`}>
-            <a href={detail?.titleUrl}>{detail.title}</a>
+            <a
+              target="_blank"
+              rel="noopener noreferrer"
+              href={detail?.titleUrl}
+            >
+              {detail.title}
+            </a>
           </h4>
           <b
             className={styles.description}
@@ -19,7 +25,16 @@ const Category = ({ info }) => (
             className={styles.subDescription}
             key={`${info?.header}SubDescription${id}`}
           >
-            <a href={detail?.subDescriptionUrl}>{detail.subDescription}</a>
+            {detail?.subDescriptionUrl && (
+              <a
+                target="_blank"
+                rel="noopener noreferrer"
+                href={detail?.subDescriptionUrl}
+              >
+                {detail.subDescription}
+              </a>
+            )}
+            {!detail?.subDescriptionUrl && detail.subDescription}
           </p>
         </div>
       ))}
