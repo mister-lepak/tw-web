@@ -12,7 +12,7 @@ const Layout = ({ children }) => (
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://www.github.com/mrlepak"
+          href="https://www.github.com/try99"
         >
           Github
         </a>
