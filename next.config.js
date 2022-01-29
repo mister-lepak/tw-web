@@ -5,6 +5,6 @@ module.exports = {
   assetPrefix: !debug ? "/tw-web" : "",
   images: {
     loader: "akamai",
-    path: "",
+    path: "/",
   },
 };
