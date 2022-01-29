@@ -15,6 +15,14 @@ const About = ({ info }) => (
           return detail;
         })}
       </p>
+      <a
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://registry.jsonresume.org/try99"
+        className={styles.resume}
+      >
+        View Resume
+      </a>
     </section>
     <div className={styles.photoWrapper}>
       <Image

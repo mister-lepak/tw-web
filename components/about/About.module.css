@@ -15,6 +15,12 @@
   height: 180px;
   position: relative;
 }
+
+.resume {
+  color: var(--headerColor);
+  font-size: 20px;
+  margin-bottom: 24px;
+}
 @media (min-width: 1024px) {
   .aboutWrapper {
     flex-direction: row;
@@ -32,6 +38,10 @@
   }
   .details {
     font-size: 32px;
+  }
+
+  .resume {
+    font-size: 28px;
   }
 
   .photoWrapper {
