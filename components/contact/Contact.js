@@ -24,7 +24,7 @@ const Contact = () => (
       <a
         target="_blank"
         rel="noopener noreferrer"
-        href="https://www.linkedin.com/in/try-wijono"
+        href="https://registry.jsonresume.org/try99"
         className={styles.resume}
       >
         View Resume
