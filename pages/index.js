@@ -5,9 +5,9 @@ import Category from "components/category/Category";
 import Contact from "components/contact/Contact";
 
 const ABOUT_INFO = {
-  header: "Hi, I am Try\nFrontend Engineer",
+  header: "Hi, I am Try\nSoftware Engineer",
   details:
-    "I am a *frontend engineer* based in *Singapore*.\n\nA self learned software engineer tampered with 5 years of multi million dollar project management in Energy industry.\n\nCurrently dealing mostly with *React JS* and *Node JS*. Also equipped with *Python*, *Tableau* and *PowerBI*.",
+    "I am a *software engineer* based in *Singapore*.\n\nA self learned engineer tampered with 5 years of multi million dollar project management in Energy industry.\n\nCurrently dealing mostly with *React JS* and *Node JS*. Also equipped with *Python*, *Tableau* and *PowerBI*.",
 };
 
 const CATEGORY_INFO = {
