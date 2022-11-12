@@ -21,6 +21,32 @@
   font-size: 20px;
   margin-bottom: 24px;
 }
+
+@keyframes background-pan {
+  from {
+    background-position: 0% center;
+  }
+  to {
+    background-position: -200% center;
+  }
+}
+
+.magic {
+  animation: background-pan 3s linear infinite;
+  background: linear-gradient(
+    to right,
+    var(--magicOne),
+    var(--magicTwo),
+    var(--magicThree),
+    var(--magicOne)
+  );
+  font-size: 600;
+  background-size: 200%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: nowrap;
+}
+
 @media (min-width: 1024px) {
   .aboutWrapper {
     flex-direction: row;

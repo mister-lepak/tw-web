@@ -43,4 +43,8 @@ a:active:after {
   --headerColor: #f4a261;
   --paragraphColor: #f2e8cf;
   --desktopWidth: 1024;
+
+  --magicOne: #e76f51;
+  --magicTwo: #e9c46a;
+  --magicThree: #fff6b0;
 }

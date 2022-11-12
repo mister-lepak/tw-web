@@ -1,12 +1,15 @@
 import Image from "next/image";
 
-import photo from "public/images/Try-Photo-2x.png";
+import photo from "public/images/Try-Photo.jpg";
 import styles from "./About.module.css";
 
 const About = ({ info }) => (
   <section className={styles.aboutWrapper}>
     <section className={styles.captionWrapper}>
-      <h2 className={styles.header}>{info.header}</h2>
+      <h2 className={styles.header}>
+        {info.header}
+        <span className={styles.magic}>{info.magicHeader}</span>
+      </h2>
       <p className={styles.details}>
         {info.details.split("*").map((detail, id) => {
           if (id % 2 === 1) {
