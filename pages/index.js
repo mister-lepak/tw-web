@@ -6,9 +6,9 @@ import Contact from "components/contact/Contact";
 
 const ABOUT_INFO = {
   header: "Hi, I am ",
-  magicHeader: "Try",
+  magicHeader: "Try Wijono",
   details:
-    "I am a *software engineer* based in *Singapore*.\n\nCurrently dealing mostly with *React JS* and *Node JS*. Also equipped with *Python*, *Tableau* and *PowerBI*.",
+    "I am a *software engineer* based in *Singapore*.\n\nAn avid fan of Star Wars and Big Bang Theory.\n\nMy tech fortes are *Next JS*, *React JS* ,*Node JS* and *Python*.",
 };
 
 const CATEGORY_INFO = {
@@ -74,8 +74,8 @@ const Home = () => {
       <Layout>
         <main>
           <About info={ABOUT_INFO} />
-          <Category info={CATEGORY_INFO?.projects} />
           <Category info={CATEGORY_INFO?.career} />
+          <Category info={CATEGORY_INFO?.projects} />
           <Contact />
         </main>
       </Layout>
