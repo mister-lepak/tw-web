@@ -1,6 +1,6 @@
 import Image from "next/image";
 
-import photo from "public/images/Try-Photo.jpg";
+import photo from "public/images/Try-Photo.png";
 import styles from "./About.module.css";
 
 const About = ({ info }) => (
