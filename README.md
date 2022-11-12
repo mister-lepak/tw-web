@@ -36,3 +36,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 ## How to deploy to github pages
 
 - Use this command `yarn deploy`, it will automatically deploy to github pages as well
+
+## How to run prod build locally
+
+- Use this command `rm -rf node_modules/ .next/ ;yarn; NODE_ENV='test' yarn build; NODE_ENV='test' yarn start;`
