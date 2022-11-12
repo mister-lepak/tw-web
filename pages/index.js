@@ -18,7 +18,7 @@ const CATEGORY_INFO = {
       {
         title: "99.co",
         titleUrl: "https://99.co",
-        description: "Technical Development Lead",
+        description: "Lead Developer",
         subDescription: "Oct 2022 - Present",
       },
       {
@@ -30,8 +30,8 @@ const CATEGORY_INFO = {
       {
         title: "ExxonMobil",
         titleUrl: "https://corporate.exxonmobil.com/",
-        description: "Applications Analyst",
-        subDescription: "Sep 2020 - Apr 2021",
+        description: "Project Management Professional",
+        subDescription: "Nov 2015 - Apr 2021",
       },
     ],
   },
