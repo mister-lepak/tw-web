@@ -1,0 +1,175 @@
+{
+  "meta": {
+    "theme": "Caffeine"
+  },
+  "basics": {
+    "name": "Try Wijono",
+    "label": "Lead Developer",
+    "picture": "https://avatars.githubusercontent.com/u/83198325?v=4",
+    "summary": "I am a self learned software engineer tampered with 5 years of multi million dollar project management in Energy industry.\n\nCurrently dealing mostly with Next JS, React JS and Node JS. Also equipped with Python, Tableau and PowerBI.",
+    "website": "https://bit.ly/try-wijono",
+    "email": "try.wijono@gmail.com",
+    "location": {
+      "city": "Singapore",
+      "countryCode": "SG"
+    },
+    "profiles": [
+      {
+        "username": "try-wijono",
+        "url": "https://linkedin.com/try-wijono",
+        "network": "linkedin"
+      },
+      {
+        "url": "https://github.com/try99",
+        "username": "try99",
+        "network": "github"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "National University of Singapore",
+      "area": "Computer Science",
+      "studyType": "Master’s Degree",
+      "startDate": "2023-08-01",
+      "endDate": "2025-12-31"
+    },
+    {
+      "institution": "Nanyang Technological University",
+      "area": "Mechanical Engineering",
+      "studyType": "Bachelor’s Degree",
+      "startDate": "2011-12-31",
+      "endDate": "2015-12-31"
+    }
+  ],
+  "references": [
+    {
+      "name": "Alvin Foo",
+      "reference": "Try and I are founding members of ExxonMobil Singapore's Sustainability Employee Engagement Drive team. \n\nTry has a pleasant and people-focused personality which makes him an asset to any team. He is also responsible and exhibits great creativity in publicity-related design work. \n\nHe has a passion for helping the community, and was involved in the company's efforts in blood donation and a grocery drop programme to low-income families. "
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "HTML / JSX",
+        "CSS",
+        "Javascript / Typescript",
+        "React / Next",
+        "Redux"
+      ],
+      "level": "",
+      "name": "Frontend"
+    },
+    {
+      "keywords": ["Node JS", "Python", "Mongo"],
+      "level": "",
+      "name": "Backend"
+    },
+    {
+      "keywords": ["Jupyter Notebook", "Tableau", "PowerBI"],
+      "level": "",
+      "name": "Data Analysis"
+    }
+  ],
+  "awards": [
+    {
+      "title": "IMDA SG Digital Postgraduate Scholarship",
+      "date": "2022-08-23",
+      "awarder": "Infocomm Media Development Authority (IMDA)",
+      "summary": "Awarded Postgraduate scholarship to puruse master in computer science in National University of Singapore (NUS)"
+    },
+    {
+      "title": "Engineering and Innovation Design 3rd Prize Award for safety category",
+      "date": "2013-06-30",
+      "awarder": "Nanyang Technological University and ST Engineering",
+      "summary": "Designed front brake light for cars to signal pedestrians and other motorists upon stopping. The features of the prototype are as follow:\n•\tEasy implementation -> Similarity to rear brake lights helps road users to recognize the signals on sight\n•\tEasy installation -> Direct connection to the car's power output \n•\tEasy Vision -> Optimized setup angle to reduce possibility of glare towards road users "
+    }
+  ],
+  "work": [
+    {
+      "company": "99.co",
+      "position": "Lead Developer",
+      "startDate": "2022-10-01",
+      "highlights": [
+        "Assess technical feasibility during product planning",
+        "Coordinate technical implementation and sequences to ensure smooth sprint development"
+      ],
+      "summary": "",
+      "url": "https://99.co",
+      "location": "Singapore"
+    },
+    {
+      "company": "99.co",
+      "position": "Fullstack Software Engineer",
+      "startDate": "2022-01-01",
+      "endDate": "2022-09-30",
+      "highlights": [
+        "Architected and developed regional codebase with NextJS and i18n integration",
+        "Implemented MVP architecture of translation process on client side without paid services",
+        "Strengthened authentication security with end-to-end password encryption",
+        "Migrated python-based legacy API endpoints to new regional codebase",
+        "Created python-based sitemap generator cronjob for regional codebase"
+      ],
+      "summary": "",
+      "url": "https://99.co",
+      "location": "Singapore"
+    },
+    {
+      "company": "99.co",
+      "position": "Frontend Software Engineer",
+      "startDate": "2021-04-30",
+      "endDate": "2021-12-31",
+      "highlights": [
+        "Improve frontend aspect of desktop and mobile web features that are focused on consumer retention",
+        "Saved SGD XX K / day from potential DDoS attack by fortifying web's security with Google Recaptcha",
+        "Boosted 35% of enquiries / enquirer by implementing the simplification of user enquiry flow",
+        "Improved 20% of enquiry conversion by delivering major revamp to search filter UX"
+      ],
+      "summary": "",
+      "url": "https://99.co",
+      "location": "Singapore"
+    },
+    {
+      "company": "ExxonMobil",
+      "position": "Applications Analyst",
+      "startDate": "2020-09-30",
+      "endDate": "2021-04-30",
+      "highlights": [
+        "Developed and Maintained LIMS Software (based on .NET and C#) features ensuring seamless 24/7 global operation across 20+ sites in 9 countries",
+        "Slashed US$ 1 M of OPEX opportunity cost by performing in depth license utilization analysis with PowerBI + Oracle DB connection",
+        "Developed new features for in-house VBA based tool that eliminates human error and prevents potential US$ 1 M demurrage impact to lab operations"
+      ],
+      "summary": "",
+      "url": "https://corporate.exxonmobil.com",
+      "location": "Singapore"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Movies"
+    },
+    {
+      "name": "Swimming"
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ExxonMobil",
+      "position": "Founding Member of Sustainability Employee Engagement Drive (SEED)",
+      "startDate": "2019-07-31",
+      "endDate": "2021-04-30",
+      "summary": "•\tOrganize roadshow events to raise environment sustainability awareness to employees in Singapore\n•\tLed nationwide Singapore internal publicity newsletter to raise awareness on environmental sustainability",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/1689"
+    },
+    {
+      "organization": "ExxonMobil",
+      "position": "Vice Chairperson for Orientation for New Employees Singapore (ONES) Committee",
+      "startDate": "2017-07-31",
+      "endDate": "2018-07-31",
+      "summary": "•\tLed 15 employees to organize 9 orientation events (scale of 100+ new employees) over 1 year period\n•\tSmoothen new employees' assimilation into the company with business overviews and networking-based events\n•\tBoosted 30% event participation rate with grassroots marketing and effective publicity approach",
+      "highlights": [],
+      "url": "https://www.linkedin.com/company/1689"
+    }
+  ]
+}
