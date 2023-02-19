@@ -63,7 +63,7 @@ const CATEGORY_INFO = {
   },
 };
 
-const Home = () => {
+function Home() {
   return (
     <>
       <Head>
@@ -81,6 +81,6 @@ const Home = () => {
       </Layout>
     </>
   );
-};
+}
 
 export default Home;
