@@ -1,5 +1,5 @@
 import { useEffect } from "react";
-import Image from "next/image";
+import Image from "next/legacy/image";
 import matrixifyText from "utils/matrixifyText";
 
 import photo from "public/images/Try-Photo.png";
