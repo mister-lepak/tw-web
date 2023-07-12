@@ -22,10 +22,10 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 - Go to [resume-try-wijono.json](out/resume-try-wijono.json) file for latest json file
 - Update the information
-- Go to `gist.github.com` in `mister-lepak` account and find `resume.json` file
+- Go to `gist.github.com` in `try99` account and find `resume.json` file
 - Copy paste latest resume-try-wijono.json file info into resume.json
 - Update the gist file
-- To extract the latest JSON resume file go this link [https://registry.jsonresume.org/mister-lepak](https://registry.jsonresume.org/mister-lepak)
+- To extract the latest JSON resume file go this link [https://registry.jsonresume.org/mister-lepak](https://registry.jsonresume.org/try99)
 
 ## How to commit
 
