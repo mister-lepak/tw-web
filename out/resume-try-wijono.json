@@ -1,6 +1,6 @@
 {
   "meta": {
-    "theme": "Macchiato"
+    "theme": "Caffeine"
   },
   "basics": {
     "name": "Try Wijono",
@@ -27,6 +27,13 @@
     ]
   },
   "education": [
+    {
+      "institution": "National University of Singapore",
+      "area": "Computer Science",
+      "studyType": "Master’s Degree",
+      "startDate": "2023-08-01",
+      "endDate": "2025-12-31"
+    },
     {
       "institution": "Nanyang Technological University",
       "area": "Mechanical Engineering",
@@ -69,7 +76,7 @@
       "title": "IMDA SG Digital Postgraduate Scholarship",
       "date": "2022-08-23",
       "awarder": "Infocomm Media Development Authority (IMDA)",
-      "summary": "Awarded Postgraduate scholarship to puruse master in computing in National University of Singapore (NUS)"
+      "summary": "Awarded Postgraduate scholarship to puruse master in computer science in National University of Singapore (NUS)"
     },
     {
       "title": "Engineering and Innovation Design 3rd Prize Award for safety category",
@@ -81,26 +88,11 @@
   "work": [
     {
       "company": "99.co",
-      "position": "Frontend Engineering Lead",
-      "startDate": "2023-01-01",
-      "highlights": [
-        "Lead 3 engineers in developing ReactJS based web application that serves 0.5 million users daily",
-        "Drive technical implementation to improve SEO performance",
-        "Lead technical project of migrating legacy codebase to NextJS based web application"
-      ],
-      "summary": "",
-      "url": "https://99.co",
-      "location": "Singapore"
-    },
-    {
-      "company": "99.co",
       "position": "Lead Developer",
       "startDate": "2022-10-01",
-      "endDate": "2022-12-31",
       "highlights": [
-        "Assessed technical feasibility during product planning",
-        "Coordinated technical implementation and sequences to ensure smooth sprint development",
-        "Contributed to product features development while leading cross-functional teams"
+        "Assess technical feasibility during product planning",
+        "Coordinate technical implementation and sequences to ensure smooth sprint development"
       ],
       "summary": "",
       "url": "https://99.co",
@@ -108,13 +100,28 @@
     },
     {
       "company": "99.co",
-      "position": "Software Engineer",
-      "startDate": "2021-04-30",
-      "endDate": "2022-12-31",
+      "position": "Fullstack Software Engineer",
+      "startDate": "2022-01-01",
+      "endDate": "2022-09-30",
       "highlights": [
         "Architected and developed regional codebase with NextJS and i18n integration",
         "Implemented MVP architecture of translation process on client side without paid services",
         "Strengthened authentication security with end-to-end password encryption",
+        "Migrated python-based legacy API endpoints to new regional codebase",
+        "Created python-based sitemap generator cronjob for regional codebase"
+      ],
+      "summary": "",
+      "url": "https://99.co",
+      "location": "Singapore"
+    },
+    {
+      "company": "99.co",
+      "position": "Frontend Software Engineer",
+      "startDate": "2021-04-30",
+      "endDate": "2021-12-31",
+      "highlights": [
+        "Improve frontend aspect of desktop and mobile web features that are focused on consumer retention",
+        "Saved SGD XX K / day from potential DDoS attack by fortifying web's security with Google Recaptcha",
         "Boosted 35% of enquiries / enquirer by implementing the simplification of user enquiry flow",
         "Improved 20% of enquiry conversion by delivering major revamp to search filter UX"
       ],
