@@ -18,20 +18,20 @@ const CATEGORY_INFO = {
       {
         title: "99.co",
         titleUrl: "https://99.co",
+        description: "Frontend Engineering Lead",
+        subDescription: "Jan 2023 - Present",
+      },
+      {
+        title: "99.co",
+        titleUrl: "https://99.co",
         description: "Lead Developer",
-        subDescription: "Oct 2022 - Present",
+        subDescription: "Oct 2022 - Dec 2022",
       },
       {
         title: "99.co",
         titleUrl: "https://99.co",
         description: "Software Engineer",
         subDescription: "Apr 2021 - Sep 2022",
-      },
-      {
-        title: "ExxonMobil",
-        titleUrl: "https://corporate.exxonmobil.com/",
-        description: "Project Management Professional",
-        subDescription: "Nov 2015 - Apr 2021",
       },
     ],
   },
