@@ -1,8 +1,8 @@
 import { useEffect } from "react";
-import Image from "next/legacy/image";
+import Image from "next/image";
 import matrixifyText from "utils/matrixifyText";
 
-import photo from "public/images/Try-Photo.webp";
+import photo from "./tryphoto.webp";
 import styles from "./About.module.css";
 
 const About = ({ info }) => {
@@ -38,8 +38,8 @@ const About = ({ info }) => {
         <Image
           src={photo}
           alt="Picture of Try"
-          layout="fill"
-          objectFit="contain"
+          priority
+          fill
         />
       </div>
     </section>
