@@ -17,8 +17,9 @@
 }
 
 .resume {
-  color: var(--headerColor);
-  font-size: 20px;
+  color: var(--linkColor);
+  font-size: 24px;
+  font-weight: bold;
   margin-bottom: 24px;
 }
 

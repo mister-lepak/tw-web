@@ -2,7 +2,7 @@ import { useEffect } from "react";
 import Image from "next/legacy/image";
 import matrixifyText from "utils/matrixifyText";
 
-import photo from "public/images/Try-Photo.png";
+import photo from "public/images/Try-Photo.webp";
 import styles from "./About.module.css";
 
 const About = ({ info }) => {

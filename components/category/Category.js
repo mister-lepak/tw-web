@@ -6,7 +6,7 @@ const Category = ({ info }) => (
     <div className={styles.details}>
       {info?.details?.map((detail, id) => (
         <div key={`${info?.header}Detail${id}`}>
-          <h4 className={styles.title} key={`${info?.header}Title${id}`}>
+          <p className={styles.title} key={`${info?.header}Title${id}`}>
             <a
               target="_blank"
               rel="noopener noreferrer"
@@ -14,7 +14,7 @@ const Category = ({ info }) => (
             >
               {detail.title}
             </a>
-          </h4>
+          </p>
           <b
             className={styles.description}
             key={`${info?.header}Description${id}`}
