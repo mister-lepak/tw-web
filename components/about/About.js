@@ -41,7 +41,6 @@ const About = ({ info }) => {
           priority
           fill
           sizes="33vw"
-          placeholder="blur"
         />
       </div>
     </section>
