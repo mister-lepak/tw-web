@@ -8,7 +8,7 @@ const ABOUT_INFO = {
   header: "Hi, I am ",
   magicHeader: "Try Wijono",
   details:
-    "I am a self learned *software engineering lead* solving SEO problems and make 99.co portals the best property tech platform in *Singapore*. T\n\nAn avid fan of Star Wars and Big Bang Theory.\n\nMy tech fortes are *Next JS*, *React JS*, *Node JS* and *Python*.",
+    "I am a self learned *software engineering lead* solving SEO problems and make 99.co portals the best property tech platform in *Singapore*.\n\nAn avid fan of Star Wars and Big Bang Theory.\n\nMy tech fortes are *Next JS*, *React JS*, *Node JS* and *Python*.",
 };
 
 const CATEGORY_INFO = {
