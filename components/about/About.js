@@ -40,6 +40,8 @@ const About = ({ info }) => {
           alt="Picture of Try"
           priority
           fill
+          sizes="33vw"
+          placeholder="blur"
         />
       </div>
     </section>
